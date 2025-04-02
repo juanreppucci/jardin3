@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cerebro/traptagger-wildeye/tutorial/tutorial-traptagger-4-clasificacion-de-especies-1/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Cerebro/Traptagger wildeye/Tutorial/Tutorial traptagger 4 - Clasificación de especies (1)/","noteIcon":""}
 ---
 
 ##### Volver a:
