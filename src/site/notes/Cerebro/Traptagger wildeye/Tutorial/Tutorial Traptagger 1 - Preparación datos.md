@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cerebro/Traptagger wildeye/Tutorial/Tutorial Traptagger 1 - Preparación datos/","noteIcon":""}
+{"dg-publish":true,"permalink":"/cerebro/traptagger-wildeye/tutorial/tutorial-traptagger-1-preparacion-datos/","noteIcon":""}
 ---
 
 
