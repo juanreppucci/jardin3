@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cerebro/traptagger-wildeye/tutorial/tutorial-traptagger-2-subida-datos/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Cerebro/Traptagger wildeye/Tutorial/Tutorial traptagger 2 - Subida datos/","noteIcon":""}
 ---
 
 ##### Ir a:
