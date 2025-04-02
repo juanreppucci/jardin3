@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cerebro/Traptagger wildeye/Tutorial/Tutorial traptagger 6 - Anexos/","noteIcon":""}
+{"dg-publish":true,"permalink":"/cerebro/traptagger-wildeye/tutorial/tutorial-traptagger-6-anexos/","noteIcon":""}
 ---
 
 ##### Volver a:
