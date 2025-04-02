@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cerebro/traptagger-wildeye/tutorial/tutorial-traptagger-5-acciones-post-clasificacion-1/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Cerebro/Traptagger wildeye/Tutorial/Tutorial traptagger 5 - Acciones post clasificación (1)/","noteIcon":""}
 ---
 
 ##### Volver a:
