@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aga/iucn-categorizacion/ejemplos-otras-especies/","noteIcon":""}
+{"dg-publish":true,"permalink":"/AGA/IUCN categorizacion/ejemplos otras especies/","noteIcon":""}
 ---
 
 [[AGA/IUCN categorizacion/_Index categorizacion\|_Index categorizacion]]
