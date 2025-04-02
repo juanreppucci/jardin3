@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cerebro/traptagger-wildeye/tutorial/tutorial-traptagger-6-anexo-tiempo-de-independencia-de-detecciones/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Cerebro/Traptagger wildeye/Tutorial/Tutorial traptagger 6 - Anexo - tiempo de independencia de detecciones/","noteIcon":""}
 ---
 
 ##### Volver a:
