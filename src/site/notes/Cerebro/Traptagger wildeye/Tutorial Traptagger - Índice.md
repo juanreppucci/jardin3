@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cerebro/Traptagger wildeye/Tutorial Traptagger - Índice/","noteIcon":""}
+{"dg-publish":true,"permalink":"/cerebro/traptagger-wildeye/tutorial-traptagger-indice/","noteIcon":""}
 ---
 
 
