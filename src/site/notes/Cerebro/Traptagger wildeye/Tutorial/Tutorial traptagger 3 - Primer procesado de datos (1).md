@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cerebro/traptagger-wildeye/tutorial/tutorial-traptagger-3-primer-procesado-de-datos-1/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Cerebro/Traptagger wildeye/Tutorial/Tutorial traptagger 3 - Primer procesado de datos (1)/","noteIcon":""}
 ---
 
 
